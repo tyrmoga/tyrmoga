@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pengdotevoke
 - 👀 I'm a Python Dev
-- 🌱 My Skills include Python Developent, Web evelopement, Systems testing,
+- 🌱 My Skills include Python Development, Web Developement, Systems testing,
 - 💞️ I’m looking to collaborate. Any challenging project, I'm game. Just HMU
 - 📫 How to reach me: Find me on LinkedIn @otipapajim and I'll give you my email and we can talk from there
 - 😄 Pronouns: 
