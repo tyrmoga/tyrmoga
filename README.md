@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I'm a Python Dev
-- 🌱 My Skills include Python Development, Web Developement, Systems testing, Odoo Development
+- 🌱 My Skills include Python Development, Web Development, Systems testing, Odoo Development
 - 💞️ I’m looking to collaborate. Any challenging project, I'm game. Just HMU
 - 📫 How to reach me: Find me on LinkedIn @otipapajim and I'll give you my email and we can talk from there
 - 😄 Pronouns: 
