@@ -19,8 +19,11 @@ I work at the intersection of ERP systems and backend engineering — building i
 - Linux Server Admin and Security
 
 **Testing & Tooling**
-- Mocha · Chai · Axios
-- Git · Railway · VS Code
+- Mocha · Chai · Axios · Selenium
+- Git · Railway · Docker · RabbitMQ
+
+**CI/CD**
+- Jenkins · Docker
 
 ---
 
