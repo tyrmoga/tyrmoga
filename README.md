@@ -9,7 +9,7 @@ I work at the intersection of ERP systems and backend engineering — building i
 ## 🔧 What I Work With
 
 **ERP & Integrations**
-- Odoo (versions 14–18) — deep customization, module development, workflow automation
+- Odoo (versions 14–19) — deep customization, module development, workflow automation
 - Multi-platform ERP: Odoo, Microsoft Dynamics, StandardERP and Fusion
 - XML-RPC, REST API integrations, ERP middleware design
 
