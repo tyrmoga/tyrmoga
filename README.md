@@ -7,7 +7,7 @@ I work at the intersection of ERP systems and backend engineering — building i
 
 ## 🚀 Featured Projects
 
-**[KeyGuard Express](https://github.com/tyrmoga/keyguard_express)** — Open-source Express.js security middleware for API key auth, HMAC webhook verification, and rate limiting. Built in TypeScript, supports SQLite/PostgreSQL and Redis-backed distributed limits.
+**[KeyGuard Express](https://github.com/tyrmoga/keyguard_express)** — Open-source Express.js security middleware ported from **[KeyGuard](https://github.com/The-honoured1/keyguard)**, a python library intended for API key auth, HMAC webhook verification, and rate limiting. Built in TypeScript, supports SQLite/PostgreSQL and Redis-backed distributed limits.
 
 ---
 
