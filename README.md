@@ -8,6 +8,7 @@ I work at the intersection of ERP systems and backend engineering — building i
 ## 🚀 Featured Projects
 
 **[KeyGuard Express](https://github.com/tyrmoga/keyguard_express)** — Open-source Express.js security middleware intended for API key auth, HMAC webhook verification, and rate limiting. Built in TypeScript, supports SQLite/PostgreSQL and Redis-backed distributed limits.Ported from **[KeyGuard](https://github.com/The-honoured1/keyguard)**, a python library
+**[DeepSeek Copilot + FIM](https://github.com/tyrmoga/deepseek_copilot_fim)** — Open-source VS Code extension that drops DeepSeek V4 Pro & Flash into the Copilot Chat model picker (vision proxy, thinking mode, agent tools) and adds FIM inline autocomplete via the DeepSeek beta API. BYOK with the API key stored in SecretStorage — never in plaintext settings. Built in TypeScript, MIT-licensed. Merged from **[deepseek-v4-for-copilot](https://github.com/Vizards/deepseek-v4-for-copilot)** and **[deepseek-fim-autocomplete-vscode-extension](https://github.com/lhr0909/deepseek-fim-autocomplete-vscode-extension)**.
 
 ---
 
@@ -19,7 +20,7 @@ I work at the intersection of ERP systems and backend engineering — building i
 - XML-RPC, REST API integrations, ERP middleware design
 
 **Backend Development**
-- Python · FastAPI · Node.js / Express.js · TypeScript · JavaScript
+- Python · FastAPI · Node.js / Express.js · TypeScript · JavaScript· Java
 - PostgreSQL · REST APIs · GraphQL · JWT Auth
 - Linux Server Admin and Security
 
